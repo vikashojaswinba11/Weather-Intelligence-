@@ -1,0 +1,8 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A responsive weather application providing current conditions, a 7-day forecast, chart visualizations, and planning recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
